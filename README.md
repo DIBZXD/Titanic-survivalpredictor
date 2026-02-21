@@ -10,3 +10,4 @@ A Machine Learning project using Python to predict passenger survival outcomes f
 
 ## Tech Stack:
 Python, Pandas, Scikit-Learn, Matplotlib/Seaborn.
+[👉 Click here to view the full Interactive Analysis (HTML)](https://htmlpreview.github.io/?https://github.com/DIBZXD/Titanic-survivalpredictor/blob/main/titanic.html)
